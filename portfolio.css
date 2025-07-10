@@ -127,6 +127,9 @@ main section{
     border-radius: 5px;
 }
 /* resume section */
+.resume-column-title{
+    margin-bottom: 30px;
+}
 .resume-container{
     display: flex;
     gap: 24px;
